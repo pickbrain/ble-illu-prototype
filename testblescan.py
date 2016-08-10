@@ -23,6 +23,6 @@ while True:
 	print "----------"
 	for beacon in returnedList:
 		print beacon[0:32]
-		print beacon[34:end]
+		print beacon[34:]
 		
 
