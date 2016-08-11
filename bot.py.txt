@@ -1,7 +1,7 @@
 import telegram
 
 # Connect to our bot
-bot = telegram.Bot(token="AAEYpt-ChLrvF81PKUD4_XQgpWAR-QDLJ68")
+bot = telegram.Bot(token=""******token******)
 
 # Waits for the first incoming message
 updates=[]
